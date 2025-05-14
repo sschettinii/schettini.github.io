@@ -22,13 +22,15 @@ redirect_from:
 ### 🧑‍💻 Full Stack Developer (Third-Party Contractor) 
 ### NextEra Energy | February 2025 – Present 
 
- • Develop and maintain a Full Stack web application tailored to meet specific client requirements, ensuring optimal functionality and user experience. 
+ • Develop and maintain a Full Stack web application tailored to meet specific client requirements, ensuring optimal functionality and user experience.
+
  • Collaborate with cross-functional teams to deliver scalable solutions aligned with business needs.
 
 ### 💬 Technical Support Analyst (Third-Party Contractor) 
 ### Constellation Energy | August 2024 – February 2025 
 
- • Provided frontline technical support to customers via phone, troubleshooting and resolving system issues promptly. 
+ • Provided frontline technical support to customers via phone, troubleshooting and resolving system issues promptly.
+ 
  • Conducted root cause analysis to identify recurring problems and implemented corrective measures to enhance service reliability.
 
 
