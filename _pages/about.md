@@ -10,12 +10,10 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm currently graduating in Universidade Estadual de Londrina(UEL).
+![Illustration of combining vision and language modalities](image_to_text_vis.png){: .align-right width="300px"}
+🔬 I'm currently graduating in Universidade Estadual de Londrina(UEL) in Data Science and Artificial Intelligence.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
-
-📚 I'm currently working with software development and improve my machine learning skills.
+📚 I'm currently working with software development, as a backend developer, and improving my machine learning skills.
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
@@ -24,14 +22,14 @@ redirect_from:
 ### 🧑‍💻 Full Stack Developer (Third-Party Contractor) 
 ### NextEra Energy | February 2025 – Present 
 
- •Develop and maintain a Full Stack web application tailored to meet specific client requirements, ensuring optimal functionality and user experience. 
- •Collaborate with cross-functional teams to deliver scalable solutions aligned with business needs.
+ • Develop and maintain a Full Stack web application tailored to meet specific client requirements, ensuring optimal functionality and user experience. 
+ • Collaborate with cross-functional teams to deliver scalable solutions aligned with business needs.
 
 ### 💬 Technical Support Analyst (Third-Party Contractor) 
 ### Constellation Energy | August 2024 – February 2025 
 
- •Provided frontline technical support to customers via phone, troubleshooting and resolving system issues promptly. 
- •Conducted root cause analysis to identify recurring problems and implemented corrective measures to enhance service reliability.
+ • Provided frontline technical support to customers via phone, troubleshooting and resolving system issues promptly. 
+ • Conducted root cause analysis to identify recurring problems and implemented corrective measures to enhance service reliability.
 
 
 
