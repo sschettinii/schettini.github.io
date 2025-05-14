@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andre's Homepage"
+title                    : "André's Homepage"
 title_separator          : "-"
-name                     : &name "Andre Schettini"
+name                     : &name "André Schettini"
 description              : &description "personal description"
 url                      : https://sschettinii.github.io/schettini.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andre Schettini"
-  avatar           : "Profile_pic2.png"
+  name             : "André Schettini"
+  avatar           : "IMG_2625.png"
   bio              : "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
-  location         : "Berlin/ Darmstadt, Germany"
-  employer         : "TU Darmstadt"
+  location         : "Londrina/ Paraná, Brazil"
+  employer         : "State University of Londrina(UEL)"
   pubmed           : 
   email            : "andreschettini2006@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/sschettinii"
+  github           : "sschettinii"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/andretomonagaschettini/"
+  linkedin         : "andretomonagaschettini"
   orcid            : 
   pinterest        :
   soundcloud       :
