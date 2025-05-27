@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](image_to_text_vis.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 🔬 I'm currently graduating in Universidade Estadual de Londrina(UEL) in Data Science and Artificial Intelligence.
 
 📚 I'm currently working with software development, as a backend developer, and improving my machine learning skills.
